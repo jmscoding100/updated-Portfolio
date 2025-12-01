@@ -2,8 +2,8 @@ const data = [
             {
                 id: 1,
                 name: 'Library-Catalog-Demo',
-                description: 'A staic verison of my React library catalog project that uses mock data. If you want to see the code for the real project then click here "https://github.com/jmscoding100/libraryProject2 " ',
-                languages: ['HTML', 'Bootstrap', 'CSS', 'React', 'Node.js', 'Express.js'],
+                description: 'A staic verison of my React library catalog project that uses mock data. If you want to see the code for the real project then look for libraryProject2 in my repo.',
+                languages: ['HTML', 'Bootstrap', 'CSS', 'Javascript', 'React', 'Node.js', 'Express.js'],
                 image: 'library_Cat.png',
                 code: 'https://github.com/jmscoding100/library-catalog-demo/tree/gh-pages',
                 live_page: 'https://jmscoding100.github.io/library-catalog-demo/'
