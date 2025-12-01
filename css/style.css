@@ -1,0 +1,39 @@
+*{box-sizing: border-box;}
+
+:root{
+    --color1:#ACC8E5;
+    --color2:#112A46;
+    --color3: rgb(71, 203, 255);
+}
+
+
+/*classes*/
+.an-i{
+    color: black;
+}
+
+.an-i:hover{
+    color: white;
+}
+
+
+
+/*id*/
+#about{
+    font-size: calc(12px + (20 - 12) * ((100vw - 300px) / (1600 - 300)));
+}
+
+#footer{
+    background-color: var(--color1);
+}
+
+
+
+#header{
+    background-color: var(--color1);
+}
+
+
+#section2{
+    padding-bottom: 40px;
+}
